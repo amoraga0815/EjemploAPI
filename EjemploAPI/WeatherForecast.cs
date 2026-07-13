@@ -1,5 +1,6 @@
 namespace EjemploAPI
 {
+    //prueba
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
